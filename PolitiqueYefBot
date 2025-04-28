@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YefBot - Politique</title>
+</head>
+<body>
+    <h1>Politique de Confidentialité</h1>
+    <p>YefBot ne collecte aucune donnée personnelle. Les informations utilisées sont limitées au nom et au nombre de membres du serveur Discord.</p>
+
+    <h1>Conditions d'Utilisation</h1>
+    <p>En utilisant YefBot, vous acceptez que le bot soit fourni "tel quel" sans garantie. L'utilisation abusive peut entraîner une restriction d'accès.</p>
+
+    <p>Contact : tonemail@example.com</p>
+</body>
+</html>
